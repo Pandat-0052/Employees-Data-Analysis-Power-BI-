@@ -1,8 +1,10 @@
 # <p align ="center"> Employee Data Analysis with Power BI
 
-📊 Analyzing employee data to identify training needs and optimize recruitment using Power BI.
+<p align ="center"> 📊 Analyzing employee data to identify training needs and optimize recruitment using Power BI.
 
-![Dashboard Preview](https://github.com/Pandat-0052/HR_Attrition/blob/main/Hr%20Attrition%20Dashboard.JPG
+![Dashboard Preview](https://github.com/Pandat-0052/Employees-Data-Analysis-Power-BI-/blob/main/Employees_Dataset%201.JPG)
+![Dashboard Preview](https://github.com/Pandat-0052/Employees-Data-Analysis-Power-BI-/blob/main/Employees_Dataset%202.JPG)
+![Dashboard Preview](https://github.com/Pandat-0052/Employees-Data-Analysis-Power-BI-/blob/main/Employees_Dataset%203.JPG)
 
 ## Project Overview
 
@@ -16,13 +18,13 @@ This project involved a comprehensive analysis of employee data, including train
 
 ## Project Contents
 
-- **Data Analysis Report**: [Link to your report]
-- **Power BI Dashboard**: [Link to your Power BI dashboard]
+- **Data Analysis Report**: [Link to report](https://github.com/Pandat-0052/Employees-Data-Analysis-Power-BI-/blob/main/Employees_Dataset%201.JPG)
+- **Power BI Dashboard**: [Link to Power BI dashboard](https://github.com/Pandat-0052/Employees-Data-Analysis-Power-BI-/blob/main/Employees_Engagement.pbix)
 
 ## Technologies Used
 
 - Power BI
-- Microsoft Excel
+  
 
 ## Getting Started
 
